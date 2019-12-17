@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "student": {
+        "id": "1",
+        "name": "Phelipe",
+        "email": "p.gustavo@soujmv.com"
+      },
+      "option": {
+        "id": 1,
+        "translation": {
+          "name": "Cruzeiro",
+          "language_id": 1
+        }
+      },
+      "justify": "É o melhor mesmo!!!"
+    },
+    {
+      "id": 2,
+      "student": {
+        "id": "2",
+        "name": "Rick",
+        "email": "rick@soujmv.com"
+      },
+      "option": {
+        "id": 2,
+        "translation": {
+          "name": "Atlético MG",
+          "language_id": 1
+        }
+      },
+      "justify": "Votei por pena :)"
+    },
+    {
+      "id": 3,
+      "student": {
+        "id": "3",
+        "name": "Leo",
+        "email": "leo@soujmv.com"
+      },
+      "option": {
+        "id": 3,
+        "translation": {
+          "name": "America MG",
+          "language_id": 1
+        }
+      },
+      "justify": ""
+    }
+  ],
+  "links": {},
+  "meta": {}
+}
